@@ -32,7 +32,7 @@ const Home = () => {
   return (
     <div className="min-h-screen bg-black">
       <Helmet>
-        <title>Home - Furniture Calculator Pemotong Kayu 2D</title>
+        <title>Home - Potongan Presisi Pemotong Kayu 2D</title>
         <meta name="description" content="Kalkulator pemotong kayu terbaik untuk bisnis furniture. Optimasi material, visualisasi 2D, dan export PDF. Tools pemotong profesional dari Arvilworks." />
       </Helmet>
 
@@ -46,7 +46,7 @@ const Home = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-white to-[#003334] bg-clip-text text-transparent">
-              Furniture Calculator
+              Potongan Presisi
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
               Solusi pemotong kayu 2D terbaik untuk bisnis furniture Anda. 
